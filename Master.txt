@@ -1,10 +1,4 @@
 <Version: 1.01>
-/data https://www.udrop.com/5NBl/Map016.json
-/data https://www.udrop.com/5NBo/Map017.json
-/data https://www.udrop.com/5NBp/MapInfos.json
-/audio/se https://www.udrop.com/5NBm/Slurp.m4a
-/audio/se https://www.udrop.com/5NBn/Slurp.ogg
-/js/plugins https://www.udrop.com/5NBs/Wuxing.js
 /img/wuxing https://www.udrop.com/5NBq/charge_icon.png
 /img/wuxing https://www.udrop.com/5NBr/cursor.png
 /img/wuxing https://www.udrop.com/5NBt/circle.png
